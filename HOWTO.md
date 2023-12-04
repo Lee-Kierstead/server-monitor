@@ -8,7 +8,7 @@ The goal of this exercise was to write a program that can be used to monitor sta
 
 ## Installation
 
-1. Clone repo @
+1. Clone repo git@github.com:Lee-Kierstead/server-monitor.git
 2. Run composer.json in your root project directory.
 3. Create your MySQL database as per instructions in README-SPEC.md. I used localhost running Apache Module mod_status to get responses.
 4. Modify the ./config/config.ini to match your database credentials (dsn, username, password ).
