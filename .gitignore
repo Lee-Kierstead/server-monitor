@@ -3,3 +3,4 @@ composer.lock
 .phpunit.result.cache
 configcopy.ini
 /logs/*
+/config/config.ini
