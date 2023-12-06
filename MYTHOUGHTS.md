@@ -22,9 +22,9 @@ AI, in my experience, has become an invaluable ally, particularly for tasks like
 
 ## Imposter Syndrome
 
-Imposter Syndrome is a thing for me as a PHP developer, popping up a couple of times a week, especially with the fast changes in the tech world. I firmly believe that no developer can know everything – claiming to do so probably means lacking self-awareness. However, what keeps me motivated is the thrill of taking on new challenges and learning.
+Imposter Syndrome is a thing for me as a PHP developer, popping up every so often, especially with the fast changes in the tech world. I firmly believe that no developer can know everything – claiming to do so probably means lacking self-awareness. However, what keeps me motivated is the thrill of taking on new challenges and learning.
 
-To deal with Imposter Syndrome, I have a two-step approach. First, I look back at a list of my projects, noting the challenges and successes. It's a kind of self-pep talk, reminding me of my progress. Second, I remind myself that every other developer faces similar doubts. Knowing I'm not alone in this struggle helps me gain perspective and face the next challenge with renewed confidence.
+To deal with Imposter Syndrome, I have a two-step approach. First, I look back at a list of my projects, noting the challenges and successes. At the end of the day, I have yet to run into a development challenge that I haven't licked. It's a kind of self-pep talk, reminding me of my progress and ability. Second, I remind myself that every other developer faces similar doubts. Knowing I'm not alone in this struggle helps me gain perspective and face the next challenge with renewed confidence.
 
 ## What Motivates Me
 
